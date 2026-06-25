@@ -1,0 +1,31 @@
+li{
+    color: green;
+}
+.x{
+    color:rosybrown;
+}
+#pg2, .y, h3{
+    color: violet;
+}
+.b li{
+    color: darkslategray;
+}
+footer>h2{
+    color: chartreuse;
+}
+      /* unvisited link */
+      a:link {
+          color: tomato;
+      }
+      /* visited link */
+      a:visited {
+          color: black;
+      }
+      /* mouse over element */
+      a:hover {
+          color: green;
+      } 
+      /* selected link */
+      a:active{
+          color: #0000FF
+      }

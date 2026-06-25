@@ -1,0 +1,6 @@
+@import "mixins";
+
+.c1{
+@include  alignementHorizontal  ();
+
+}

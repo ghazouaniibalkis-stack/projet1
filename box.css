@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    height: 350px;
+    margin-left: 40px;
+    margin-right: 900px;
+    margin-top: 60px; 
+}
+div{
+    background-color: red;
+     padding-right: 15%;
+    padding-left: 15%;
+    padding-bottom: 15%;
+    padding-top: 15%; 
+    /* padding: 20px 30px 20px 30px; top right bottom left */
+    height: 400px;
+    width:500px;
+    border: 20px solid black;
+   border-radius:15px;
+}

@@ -1,0 +1,35 @@
+#a1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     word-spacing:10px;
+     text-align:center;
+}
+.texte h1{ 
+    font-style: inherit;
+    text-align: left;
+}
+.texte h2{
+    font-weight: lighter;
+    text-decoration: underline cornflowerblue;
+    text-align: center;
+
+}
+#a2{
+   letter-spacing: 4px;
+   text-align:center;
+   font-family:Arial, Helvetica, sans-serif;
+  
+}
+.texte h3{
+    font-size: xx-large;
+    text-align: left;
+}
+#a3{
+    text-align:center;
+}
+.texte h4{
+    font-size: 2em;
+    text-align:right;
+}
+#a4{
+    text-align:right;
+}
